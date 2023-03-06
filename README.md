@@ -14,7 +14,7 @@ The questions have been arranged in the respective folders.
 - [ ] Q7
 
 
-The code for Q4 has been written on kaggle, as fastai library runs into various issues on the my local system (Mac m1)
+The code for Q4 has been written on kaggle, as fastai library runs into various issues on the my local system (Mac M1)
 
 I have used the following resources as reference:
 
